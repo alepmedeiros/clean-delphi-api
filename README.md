@@ -1,2 +1,1 @@
-# clean-delphi-api
-Clean Delphi API
+O objetivo foi cirar uma API com uma arquitetura bem defina e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidade em camadas, sempre seguindo os princípios do SOLID, e sempre que possível, aplicando Design Patterns para resolver problemas comuns.
